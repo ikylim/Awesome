@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">This is the future!</string>
+    <string name="app_name">Awesome</string>
+    
+    <string name="welcome_title">Participating Stores</string>
+    <string name="welcome_text">\
+        This is going to be an amazing ride.
+    </string>
+    <string name="products_title">This is what we serve!</string>
+    <string name="tab_title">This is your tab</string>
+    <string name="order_title">You want this?</string>
+    
+    <string name= "yep">You are about to order</string>
+</resources>
